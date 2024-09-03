@@ -9,7 +9,7 @@ const quotes = [
     "When you have eliminated the impossible, whatever remains, however improbable, must be the truth.",
     "You must be the change you wish to see in the world. — Mahatma Gandhi",
     "Believe you can and you're halfway there. — Theodore Roosevelt",
-    "It does not matter how slowly you go as long as you do not stop. — Confucius"
+    "It does not matter how slowly you go as long as you do not stop. — Confucius",
     "I ought to know by this time that when a fact appears to be opposed to a long train of deductions it invariably proves to be capable of bearing some other interpretation.",
     "I never make exceptions. An exception disproves the rule.",
     "What one man can invent another can discover.",
