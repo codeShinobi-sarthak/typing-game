@@ -1,12 +1,19 @@
 const quotes = [
-    "When you have eliminated the impossible, whatever remains, however improbable, must be the truth.",
     "There is nothing more deceptive than an obvious fact.",
+    "The only way to do great work is to love what you do. — Steve Jobs",
+    "Success is not final, failure is not fatal: It is the courage to continue that counts. — Winston Churchill",
+    "In the end, we will remember not the words of our enemies, but the silence of our friends. — Martin Luther King Jr.",
+    "Do not wait to strike till the iron is hot, but make it hot by striking. — William Butler Yeats",
+    "The only limit to our realization of tomorrow is our doubts of today. — Franklin D. Roosevelt",
+    "The only thing standing between you and your goal is the story you keep telling yourself as to why you can't achieve it. — Jordan Belfort",
+    "When you have eliminated the impossible, whatever remains, however improbable, must be the truth.",
+    "You must be the change you wish to see in the world. — Mahatma Gandhi",
+    "Believe you can and you're halfway there. — Theodore Roosevelt",
+    "It does not matter how slowly you go as long as you do not stop. — Confucius"
     "I ought to know by this time that when a fact appears to be opposed to a long train of deductions it invariably proves to be capable of bearing some other interpretation.",
     "I never make exceptions. An exception disproves the rule.",
     "What one man can invent another can discover.",
     "Nothing clears up a case so much as stating it to another person.",
-    "Education never ends, Watson. It is a series of lessons, with the greatest for the last.",
-    "hello world",
 ];
 
 let words = [];
