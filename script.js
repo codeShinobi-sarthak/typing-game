@@ -26,9 +26,9 @@ const typedValueElement = document.getElementById("typed-value");
 const displayTypedValue = document.getElementById("display-typed-value");
 const start = document.getElementById("start");
 
-document.getElementById("start").addEventListener("click", function () {
+document.querySelector("#start").addEventListener("click", function () {
     // Hide the start button
-    document.getElementById("start-container").style.display = "none";
+    document.querySelector("#start-container").style.display = "none";
     // Show the game container
     const gameContainer = document.getElementById("game-container");
     gameContainer.style.display = "block";
